@@ -1,4 +1,6 @@
 ### Eyyy 👋 Soy Manuel
 #### testing day two
 
-hastag two
+http://github.com - automatic!
+
+:grinning:

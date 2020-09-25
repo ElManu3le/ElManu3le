@@ -1,6 +1,6 @@
 ### Eyyy 👋 Soy Manuel
-##### Cabecera hermosa para github, pero en verdad es una m*****  :grinning:
+##### Estudiante de Desarrollo de aplicaciones multiplatarforma de segundo año :grinning:
 
-http://github.com 
+> Mi pagina de GitHub --> http://github.com 
 > hola a todos, aqui estamos en un nuevo video blogs
 :grinning:
